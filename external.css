@@ -1,0 +1,19 @@
+
+h1{
+    color: aquamarine;
+    font-style:bold;
+
+    background-color: blue;
+}
+p{
+    color: aquamarine;
+    background-color: blue;
+    font-style: italic;
+    font-family: "Sofia", sans-serif;
+}
+#p3{
+    background-color:red;
+}
+.css{
+    background-color: pink;
+}
